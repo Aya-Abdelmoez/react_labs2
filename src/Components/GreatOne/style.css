@@ -1,0 +1,18 @@
+.one{
+    color : white;
+    background-color:burlywood;
+    width: 300px;
+    margin-left: 43%;
+    
+}
+
+.content {
+    background-color : gray;
+    font-size:30px;
+    width: 400px;
+    margin-left:40%;
+}
+
+div{
+    text-align: center
+}
